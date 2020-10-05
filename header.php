@@ -1,7 +1,6 @@
-
 <!DOCTYPE html>
     <head>
-        <title>Kristy's Portfolio & Blog | 19.10</title>
+        <title>Kristy's Portfolio & Blog | 20.09</title>
     </head><!--close for head-->
 
     <header>

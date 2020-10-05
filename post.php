@@ -1,4 +1,3 @@
-  
 <?php
     include "header.php";
 ?><!--PHP content always loads before the rest of web content--> 
