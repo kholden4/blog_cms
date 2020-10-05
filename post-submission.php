@@ -3,8 +3,8 @@
         <title>Kristy's Portfolio & Blog | 20.09</title>
         <nav>
           <ul>
-            <li><a href="index.html">HOMEPAGE</a></li>
-            <li><a href="post-submission.html">CREATE NEW POST</a></li>
+            <li><a href="index.php">HOMEPAGE</a></li>
+            <li><a href="post-submission.php">CREATE NEW POST</a></li>
           </ul>
         </nav><!--close for navigation-->
     </head><!--close for head-->
@@ -16,7 +16,7 @@
                 <h2>Hospitality Manager by Day | UX Design Student by Night</h2>
             </header><!--close for header-->
 
-            <form action="/action_page.html" method="get">
+            <form action="/action_page.php" method="get">
                 Title: <input type="text" name="postTitle"><br>
                 Author: <input type="text" name="authorName"><br>
                 Date: <input type="date" name="postDate"><br>
