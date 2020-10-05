@@ -4,8 +4,8 @@
     <title>Kristy's Portfolio & Blog | 20.09</title>
         <nav>
             <ul>
-                <li><a href="index.html">HOMEPAGE</a></li>
-                <li><a href="post-submission.html">CREATE NEW POST</a></li>
+                <li><a href="index.php">HOMEPAGE</a></li>
+                <li><a href="post-submission.php">CREATE NEW POST</a></li>
             </ul>
         </nav><!--close for navigation-->
     </head><!--close for head-->
