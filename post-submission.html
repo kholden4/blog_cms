@@ -4,7 +4,7 @@
         <nav>
           <ul>
             <li><a href="index.php">HOMEPAGE</a></li>
-            <li><a href="post-submission.php">CREATE NEW POST</a></li>
+            <li><a href="post-submission1.php">CREATE NEW POST</a></li>
           </ul>
         </nav><!--close for navigation-->
     </head><!--close for head-->
