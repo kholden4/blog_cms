@@ -16,13 +16,9 @@
                 <h2>Hospitality Manager by Day | UX Design Student by Night</h2>
             </header><!--close for header-->
 
-            <form action="/action_page.php" method="get">
-                Title: <input type="text" name="postTitle"><br>
-                Author: <input type="text" name="authorName"><br>
-                Date: <input type="date" name="postDate"><br>
-                Post: <textarea>Write here...</textarea>
-                <input type="submit" value="Submit">
-            </form><!--close for form-->
+            <ul>
+                <li><a href="post.php">My First Entry</a></li>
+            </ul>
 
         </main><!--close for main-->
 
